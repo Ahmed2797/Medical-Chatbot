@@ -9,4 +9,7 @@ pypdf
 langchain-groq
 faiss-cpu
 tavily-python
+fastapi
+uvicorn
+pydantic
 # uv add -r requirements.txt
