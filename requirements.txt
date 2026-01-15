@@ -1,0 +1,12 @@
+crewai[tools]
+uv
+reqsnap
+sentence_transformers
+langchain
+langchain-community
+langchain-huggingface
+pypdf
+langchain-groq
+faiss-cpu
+tavily-python
+# uv add -r requirements.txt
