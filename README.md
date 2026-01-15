@@ -75,7 +75,7 @@ Medical-ChatApp/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/medical-chatapp.git
+git clone https://github.com/Ahmed2797/Medical-Chatbot.git
 cd medical-chatapp
 ```
 
